@@ -1,2 +1,3 @@
 # Tutorial ideas
-- [] Mastering PalmOS
+- [ ] Mastering PalmOS
+- [ ] Blockchains with BASIC 
